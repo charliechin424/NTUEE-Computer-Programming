@@ -1,0 +1,6 @@
+charlie 10100
+mygod 9400
+wilson 8300
+hello 6000
+jason 5600
+0
